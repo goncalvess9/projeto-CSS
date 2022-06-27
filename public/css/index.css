@@ -1,0 +1,17 @@
+/* Estilos da pagina index */
+
+.cover-container img {
+     width: 45%;
+     border-radius: 15px;
+     border: 5px double;
+}
+@media screen and (min-width: 992px) {
+     .cover-container img {
+          width: 18%;
+          margin: auto;
+          margin-bottom: 25px;
+     }
+}
+.video img {
+     width: 45%;
+}

@@ -1,0 +1,13 @@
+/* Estilos relacionados ao rodapé */
+
+footer {
+    text-align: center;
+    border-top: 1px solid #f0f5ff;
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+}
+
+footer section span {
+    color: #3bd42d;
+}
