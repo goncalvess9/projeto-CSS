@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* estilos globais do site */
 html {
     height: 100%;
@@ -18,15 +17,4 @@ body {
 
 h1.title {
     margin: 40px auto 20px;
-=======
-/* estilos globais do site */
-html {
-    height: 100px;
-}
-body {
-    background-color: #1c0c3f;
-    font-family: sans-serif;
-    color: #ffffff;
-    margin: 0;
->>>>>>> 5582b37e3bbd4001903f2a788976005aa56f7745
 }
